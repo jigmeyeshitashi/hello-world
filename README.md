@@ -1,4 +1,4 @@
 # hello-world
 first repository 
-1st edit by Jigme Lhendup, learning commit
+learning to commit in GitHub for collaboration on project
 
